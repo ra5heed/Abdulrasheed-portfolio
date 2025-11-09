@@ -1,0 +1,61 @@
+{
+	"folders": [
+		{
+			"name": "8.4 Web Design Agency Project",
+			"path": "../8.4 Web Design Agency Project"
+		},
+		{
+			"name": "8.3 Media Query",
+			"path": "../8.3 Media Query"
+		},
+		{
+			"name": "9.0 Display Flex",
+			"path": "../9.0 Display Flex"
+		},
+		{
+			"name": "9.1 Flex Direction",
+			"path": "../9.1 Flex Direction"
+		},
+		{
+			"name": "9.4+Flexbox+Pricing+Table+Project",
+			"path": "../9.4+Flexbox+Pricing+Table+Project"
+		},
+		{
+			"name": "10.0 Display Grid",
+			"path": "../10.0 Display Grid"
+		},
+		{
+			"name": "10.2 Grid Placement",
+			"path": "../10.2 Grid Placement"
+		},
+		{
+			"name": "10.3 Mondrian Project",
+			"path": "../10.3 Mondrian Project"
+		},
+		{
+			"name": "11.0 Bootstrap Intro",
+			"path": "../11.0 Bootstrap Intro"
+		},
+		{
+			"name": "11.2 Bootstrap Components",
+			"path": "../11.2 Bootstrap Components"
+		},
+		{
+			"name": "11.3 TinDog Project",
+			"path": "../11.3 TinDog Project"
+		},
+		{
+			"name": "4.3 HTML Porfolio Project",
+			"path": "../4.3 HTML Porfolio Project"
+		},
+		{
+			"name": "7.3 CSS Flag Project",
+			"path": "../7.3 CSS Flag Project"
+		},
+		{
+			"name": "portfolio",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
